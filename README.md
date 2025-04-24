@@ -38,7 +38,7 @@ Used `ImageDataGenerator` to apply common image augmentation techniques:
 
 ---
 
-## 🛠 Features
+##  Features
 
 - Transfer learning for high accuracy with limited data  
 - Custom CNN layers for flexibility  
@@ -47,7 +47,7 @@ Used `ImageDataGenerator` to apply common image augmentation techniques:
 
 ---
 
-## ⚠ Current Limitation
+##  Current Limitation
 
 Due to limitations in computational resources (Colab CPU/GPU), the full training process was not completed. As a result, metrics such as accuracy, precision, recall, confusion matrix, and classification reports have **not yet been generated**.
 
