@@ -78,6 +78,5 @@ The following tasks are planned as part of project completion and improvement:
 
 ##  Author
 
-**[Abdullah Kaisar Fardin]**  
-Aspiring AI Developer | Deep Learning Enthusiast
+**Abdullah Kaisar Fardin**  
 
